@@ -11,8 +11,8 @@ opcao = input("Escolha uma opção (1-4): ")
 valor = float(input("Digite o valor a ser convertido: "))
 
 
-TAXA_DOLAR = 5.71   
-TAXA_EURO = 6.47     
+TAXA_DOLAR = 0.17
+TAXA_EURO = 0.15       
 TAXA_REAL_DOLAR = 5.71  
 TAXA_REAL_EURO = 6.47  
 
